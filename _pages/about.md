@@ -6,7 +6,7 @@ description: <a href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubb
 
 profile:
   align: right
-  image: waldpark_pic_bearbeitet.jpg
+  image: waldpark_pic_bearbeitet.JPG
   address: 
 
 news: false  # includes a list of news items
