@@ -76,7 +76,14 @@
           {% endif %}
           {% endif %}
           {% endfor %}
-          {% if site.enable_darkmode %}
+		  <!-- CV -->
+		  <li class="nav-item">
+            <a class="nav-link" target="_blank" href="{{ '/assets/pdf/cv_academic_js.pdf' | prepend: site.baseurl | prepend: site.url }}">
+              CV
+            </a>
+          </li>
+          <!-- Dark mode -->
+		  {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
                   <i class="fas fa-moon"></i>
