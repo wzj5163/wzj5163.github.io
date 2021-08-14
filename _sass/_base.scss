@@ -51,7 +51,8 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;  // by JS
   width: 100%;
 
   .address {
@@ -86,6 +87,10 @@ blockquote {
   }
 }
 
+// about page: description under name (by JS)
+.desc{
+	font-size: 0.9rem;
+}
 
 // Navbar customization
 
@@ -197,6 +202,8 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
+  width: 7rem;        // JS
+  padding-left: 0.1rem; // JS
 }
 
 // Social (bottom)
