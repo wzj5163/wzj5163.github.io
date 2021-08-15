@@ -80,6 +80,17 @@
     <!-- Footer -->
 
     {% include footer.html %}
+	
+	<!-- Panelbear Analytics: Show CV event -->
+	{% if site.enable_panelbear_analytics %}
+	  <script>
+		let button = document.getElementById("show-cv");
+
+		button.addEventListener("click", function () {
+		panelbear("track", "Show_CV");
+		});
+	  </script>
+	{% endif %}
 
   </body>
 

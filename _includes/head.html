@@ -72,11 +72,4 @@
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
     panelbear('config', { site: '{{site.panelbear_analytics}}' });
 </script>
-<script>
-  let button = document.getElementById("show-cv");
-
-  button.addEventListener("click", function () {
-    panelbear("track", "Show_CV");
-  });
-</script>
 {% endif %}
