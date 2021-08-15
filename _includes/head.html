@@ -16,12 +16,13 @@
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
-<meta property="og:site_name" content="{{ site.description }}" />
-<meta property="og:type" content="object" />
-<meta property="og:title" content="{{ site.name }}" />
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:description" content="{{ page.title }}" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Julian Streyczek" />
+<meta property="og:description" content="PhD student in Economics @ Bocconi" />
 <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+<meta property="og:image:width" content="1532" />
+<meta property="og:image:height" content="863" />
 {% endif %}
 
 <!-- Bootstrap & MDB -->
@@ -65,10 +66,17 @@
 {% endif %}
 
 {% if site.enable_panelbear_analytics %}
-<!-- Panelbear Analytics - We respect your privacy -->
+<!-- Panelbear Analytics - Privacy-friendly website analytics tool -->
 <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
 <script>
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
     panelbear('config', { site: '{{site.panelbear_analytics}}' });
+</script>
+<script>
+  let button = document.getElementById("show-cv");
+
+  button.addEventListener("click", function () {
+    panelbear("track", "Show_CV");
+  });
 </script>
 {% endif %}
