@@ -19,6 +19,6 @@ Hello there! I am a second-year PhD student in Economics at
 in Milan, Italy. 
 
 I believe that economic research is essential for solving the fundamental problems we experience in our modern society. 
-I am particular interested in social topics like **education**, **health**, and **wellbeing**, but also **public policy** and **politics**. 
+I am particularly interested in social topics like **education**, **health**, and **wellbeing**, but also **public policy** and **politics**. 
 
 Over the next years, I will share my research and possibly other interesting insights on this website. Stay tuned! :rocket:
