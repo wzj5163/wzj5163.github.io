@@ -19,6 +19,6 @@ Hello there! I am a second-year PhD student in Economics at
 in Milan, Italy. 
 
 I believe that economic research is essential for solving the fundamental problems we experience in our modern society. 
-I am particularly interested in topics like **health** and **public policy**, but also **IO** and **econometrics** in general. 
+I am particularly interested in applied topics in  **Industrial Organization**, **Health**, and **Information**, but i also like **econometrics** and **statistical learning** in general. 
 
 Over the next years, I will share my research and possibly other interesting insights on this website. Stay tuned! :rocket:
