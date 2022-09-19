@@ -1,0 +1,14 @@
+Useful commands:
+
+Git:
+git remote -v
+
+
+Jekyll:
+bundle install
+bundle exec jekyll serve
+
+Important files:
+About: _pages/about.md
+CV:    _includes/header.html, assets/pdf/
+
