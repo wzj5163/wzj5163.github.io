@@ -9,6 +9,7 @@ bundle install
 bundle exec jekyll serve
 
 Important files:
-About: _pages/about.md
+About: _pages/About.md
+Research: _pages/Research.md
 CV:    _includes/header.html, assets/pdf/
 
