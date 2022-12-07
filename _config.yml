@@ -33,7 +33,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 950px
+max_width: 950px # 800px 950px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -121,7 +121,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages/about.md']
+include: ['_pages/About.md', '_pages/Research.md']
 exclude:
   - bin
   - Gemfile
