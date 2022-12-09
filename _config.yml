@@ -8,6 +8,7 @@ middle_name:
 last_name: Streyczek
 email: julian.streyczek@phd.unibocconi.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+<<<<<<< Updated upstream
     PhD Student in Economics @ Bocconi
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -17,6 +18,21 @@ icon: 🚀 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # set to true if you want to display last updated in the footer
+=======
+  APhD Student in Economics @ Bocconi
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+keywords: economics, political economics, bocconi, phd, causal analysis  # add your own keywords or leave empty
+
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🚀  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+url: # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+>>>>>>> Stashed changes
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -25,6 +41,11 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
+<<<<<<< Updated upstream
+=======
+rss_icon: false
+
+>>>>>>> Stashed changes
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -42,6 +63,10 @@ max_width: 950px # 800px 950px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
+<<<<<<< Updated upstream
+=======
+serve_schema_org: false # Include Schema.org in the HTML head
+>>>>>>> Stashed changes
 og_image: /assets/img/waldpark_pic_breit.JPG # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -51,7 +76,13 @@ og_image: /assets/img/waldpark_pic_breit.JPG # The site-wide (default for all li
 github_username: JulianStreyczek # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
+<<<<<<< Updated upstream
 linkedin_username: julian-streyczek-590454105 # your LinkedIn user name
+=======
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: julian-streyczek-590454105 # your LinkedIn user name
+telegram_username: # your Telegram user name
+>>>>>>> Stashed changes
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -67,14 +98,31 @@ dblp_url: # your DBLP profile url
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
+<<<<<<< Updated upstream
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: 2k7px3F6HGu # panelbear analytics site ID
+=======
+# -----------------------------------------------------------------------------
+# Analytics and search engine verification
+# -----------------------------------------------------------------------------
+
+google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+panelbear_analytics: 2k7px3F6HGu # panelbear analytics site ID (format: XXXXXXXXX)
+
+google_site_verification:  # your google-site-verification ID (Google Search Console)
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+>>>>>>> Stashed changes
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< Updated upstream
 blog_name: # your blog must have a name for it to show up in the nav bar
+=======
+blog_name: # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+>>>>>>> Stashed changes
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -179,7 +227,13 @@ scholar:
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: true   # enables panelbear analytics
+<<<<<<< Updated upstream
 enable_mansory:             true   # enables automatic project cards arangement
+=======
+enable_google_verification: false  # enables google site verification
+enable_bing_verification:   false  # enables bing site verification
+enable_masonry:             true   # enables automatic project cards arangement
+>>>>>>> Stashed changes
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
@@ -189,6 +243,10 @@ enable_navbar_social:       true   # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+<<<<<<< Updated upstream
+=======
+enable_progressbar:         false  # enables a horizontal progress bar linked to the vertical scroll position
+>>>>>>> Stashed changes
 
 # -----------------------------------------------------------------------------
 # Library versions

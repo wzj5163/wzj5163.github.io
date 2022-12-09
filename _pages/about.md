@@ -2,11 +2,20 @@
 layout: about
 title: About
 permalink: /
+<<<<<<< Updated upstream
 description: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a> • <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Ettore+Bocconi+Dep+of+Economics/ETTORE+BOCCONI+DEPARTMENT+OF+ECONOMICS">Economics Department</a>
 
 profile:
   align: right
   image: waldpark_pic_rund.JPG # waldpark_pic_bearbeitet.JPG waldpark_pic_rund.JPG
+=======
+subtitle: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a> • <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Ettore+Bocconi+Dep+of+Economics/ETTORE+BOCCONI+DEPARTMENT+OF+ECONOMICS">Economics Department</a>
+
+profile:
+  align: right
+  image: waldpark_pic_bearbeitet.JPG
+  image_circular: false # crops the image to make it circular
+>>>>>>> Stashed changes
   address: 
 
 news: true  # includes a list of news items
