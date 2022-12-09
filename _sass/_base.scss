@@ -19,6 +19,9 @@ table {
   td {
     font-size: 1rem;
   }
+  th {
+	width: 7rem;
+  }
 }
 
 a, table.table a {
@@ -94,6 +97,7 @@ blockquote {
 
 .profile {
   width: 100%;
+  margin-left: 1.5rem;
 
   .address {
     margin-bottom: 5px;
@@ -110,6 +114,10 @@ blockquote {
 }
 .profile.float-left{
   margin-right: 1rem;
+}
+
+.desc{
+	font-size: 0.9rem;
 }
 
 @media (min-width: 576px) {

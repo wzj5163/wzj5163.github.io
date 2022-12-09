@@ -8,11 +8,32 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
 {%- endif -%}
-{%- if site.enable_panelbear_analytics -%}
-  <!-- Panelbear Analytics - We respect your privacy -->
-  <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
-  <script>
+
+{% if site.enable_panelbear_analytics %}
+<!-- Panelbear Analytics - Privacy-friendly website analytics tool -->
+<script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
+<script>
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
     panelbear('config', { site: '{{site.panelbear_analytics}}' });
-  </script>
-{%- endif -%}
+</script>
+{% endif %}
+
+<!-- Panelbear Analytics: Show CV event -->
+	{% if site.enable_panelbear_analytics %}
+	  <script>
+		let button = document.getElementById("show-cv");
+		button.addEventListener("click", function () {
+		panelbear("track", "ShowCV");
+		});
+	  </script>
+	{% endif %}
+	
+<!-- Panelbear Analytics: Show Research event -->
+	{% if site.enable_panelbear_analytics %}
+	  <script>
+		let button = document.getElementById("show-research");
+		button.addEventListener("click", function () {
+		panelbear("track", "ShowResearch");
+		});
+	  </script>
+	{% endif %}
