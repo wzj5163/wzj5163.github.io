@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a> • <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Ettore+Bocconi+Dep+of+Economics/ETTORE+BOCCONI+DEPARTMENT+OF+ECONOMICS">Economics Department</a>
+subtitle: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a> • <a target="_blank" href="https://economics.unibocconi.eu/">Economics Department</a>
 
 profile:
   align: right
