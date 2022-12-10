@@ -8,7 +8,7 @@ middle_name:
 last_name: Streyczek
 email: julian.streyczek@phd.unibocconi.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  APhD Student in Economics @ Bocconi
+  PhD Student in Economics @ Bocconi
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -168,7 +168,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages/About.md', '_pages/Research.md']
+include: ['_pages/about.md', '_pages/research.md']
 exclude:
   - bin
   - Gemfile

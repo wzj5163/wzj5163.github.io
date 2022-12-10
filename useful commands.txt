@@ -11,6 +11,8 @@ Switch to branch:
 git checkout [branchname]
 Stash changes (if switch to other branch but have changes that don't want to commit):
 git stash
+Look at previous commits (exit with q):
+git log 
 
 Jekyll:
 bundle install
@@ -32,3 +34,9 @@ Create new branch that copies master branch of al-folio:
 git checkout -b update alfolio/master
 Remove remote:
 git remote remove alfolio
+* Do changes to update
+Overwrite master with update (but record as merge: https://stackoverflow.com/questions/2763006/make-the-current-git-branch-a-master-branch)
+git checkout update
+git merge --strategy=ours master
+git checkout master
+git merge update
