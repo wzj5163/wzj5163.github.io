@@ -6,7 +6,7 @@ subtitle: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/boc
 
 profile:
   align: right
-  image: waldpark_pic_bearbeitet.JPG
+  image: Pic_Brisighella.JPG
   image_circular: false # crops the image to make it circular
   address: 
 
