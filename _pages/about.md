@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a> • <a target="_blank" href="https://economics.unibocconi.eu/">Economics Department</a>
+subtitle: <a target="_blank" href="https://www.unibocconi.eu/">Bocconi University</a> • <a target="_blank" href="https://economics.unibocconi.eu/">Economics Department</a>
 
 profile:
   align: right
@@ -16,10 +16,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hello there! I am a fourth-year PhD student in Economics at 
-<a target="_blank" href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21">Bocconi University</a>
+<a target="_blank" href="https://www.unibocconi.eu/">Bocconi University</a>
 in Milan, Italy. 
 
-I am interested in **causal analysis** in the field of **Political Economics**. 
-Specifically, I want to contribute to our understanding of how the design of our social and economic system affects how we think about the world.
+My research uses observational data and **applied econometric methods** to better understand how **digital media** affect the production and consumption of information, 
+with special attention to **political effects** in developed democracies. 
 
 Over the next years, I will share my research and possibly other interesting insights on this website. Stay tuned! :rocket:
