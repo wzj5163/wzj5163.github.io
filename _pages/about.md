@@ -19,6 +19,6 @@ Hello! I am a fifth-year PhD student in mathematic finance at
 <a target="_blank" href="https://e.swufe.edu.cn">Southwestern University of Finance and Economics (SWUFE)</a>
 in Chengdu, China. 
 
-My research involves corporate default, volatility time series model, multi-factor models, portfolio optimization, and crypocurrency. My research interests include applying **machine learning** and **statistical econometric methods** to solving real-world problems, as complex as in finance. 
+My research involves corporate default, volatility time series model, multi-factor models, portfolio optimization, and crypocurrency. My research interests include applying **machine learning** and **statistical econometric methods** to solving real-world problems, mainly but not limited in finance. 
 
 My current research focuses are multi-variate network models, deep learning. Hope to share my research findings and insights with you! :rocket:
