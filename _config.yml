@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Julian
+first_name: Zijin
 middle_name: 
-last_name: Streyczek
-email: julian.streyczek@phd.unibocconi.it
+last_name: Wang
+email: wangzijin516@live.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student in Economics @ Bocconi
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: economics, political economics, bocconi, phd, causal analysis  # add your own keywords or leave empty
+keywords: mathematic finance, portfolio management, volatility model, machine learning, cryptocurrency  # add your own keywords or leave empty
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en, cn # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: # the base hostname & protocol for your site
