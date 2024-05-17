@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-09-01 15:59:00-0400
+date: 2019-09-01 
 inline: true
 ---
-Started my PhD at Bocconi! :nerd_face: 
+Started my PhD at SWUFE! :nerd_face: 

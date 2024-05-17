@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2023-09-07 15:59:00-0400
+date: 2021-12-26 
 inline: true
 ---
-Presented my paper on <a target="_blank" href="/research/">Political Effects of Newspaper Paywalls</a> at the Meeting of Young Economists 2023 at Collegio Carlo Alberto in Turin, Italy. 
-
+I visit the Humboldt University of Berlin as a visiting scholar in IRTG 1792 group for one year.

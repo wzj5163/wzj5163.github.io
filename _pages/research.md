@@ -8,7 +8,7 @@ nav: true
 
 #### Work in Progress
 
-Volatility Cluster and Its Implications in Value at Risk and Option Pricing <sub><sup>(joint with Peimin Chen, Chunchi Wu, Peng Liu, forth-coming in Interrnational Review of Finance and Economics, 2024)</sup></sub>
+Volatility Cluster and Its Implications in Value at Risk and Option Pricing <sub><sup>(joint with Peimin Chen, Chunchi Wu, Peng Liu, forth-coming in Interrnational Review of Finance and Economics, 2024, doi: https://doi.org/10.1016/j.iref.2024.05.034.)</sup></sub>
 
 Network Portfolio and its Estimation under High-dimensionality <sub><sup>(joint with Rui Ren, Wolfgang Karl Härdle, Wei Biao Wu, working paper)</sup></sub>
 
