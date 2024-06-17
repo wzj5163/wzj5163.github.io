@@ -18,6 +18,6 @@ GEV-based Distance to Default <sub><sup>(joint with Peimin Chen, Chunchi Wu, wor
 
 Firms’ environmental performance and stock returns long-term volatility level and connectedness. Evidence from international comparison <sub><sup>(joint with Gianluca Vagnani, Jinhuan Tian, Yan Dong, working paper)</sup></sub>
 
-Markov Dynamic Correlation (joint with Gianluca Vagnani, working paper)
+Markov Dynamic Correlation <sub><sup>(joint with Gianluca Vagnani, working paper)<sub><sup>
 
-Regime-Dependent Multi-Task Learning for Risk-Adjust Portfolio (joint with Junzo Watada, Yicheng Wei, working paper)
+Regime-Dependent Multi-Task Learning for Risk-Adjust Portfolio <sub><sup>(joint with Junzo Watada, Yicheng Wei, working paper)<sub><sup>
