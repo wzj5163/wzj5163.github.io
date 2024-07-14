@@ -5,10 +5,12 @@ permalink: /research/
 description: 
 nav: true
 ---
-
-#### Work in Progress
+#### Publication
 
 Volatility forecasts by clustering: Applications for VaR estimation <sub><sup>(joint with Peimin Chen, Chunchi Wu, Peng Liu, Interrnational Review of Finance and Economics, 2024, Vol.94, doi: https://doi.org/10.1016/j.iref.2024.05.034.)</sup></sub>
+
+
+#### Work in Progress
 
 Network Portfolio and its Estimation under High-dimensionality <sub><sup>(joint with Rui Ren, Wolfgang Karl Härdle, Wei Biao Wu, R&R)</sup></sub>
 
